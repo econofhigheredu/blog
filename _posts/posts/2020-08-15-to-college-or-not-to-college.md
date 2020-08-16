@@ -2,7 +2,7 @@
 layout: post
 title: To college or not to college
 date: 2020-08-15T23:55:57.761Z
-img: /software.jpg
+img: /how-to-start.jpg
 tags:
   - college
   - test
